@@ -1,0 +1,17 @@
+def perro_robot():
+ print("Ingresa el precio de tu primer artículo, por favor :3")
+ x=input()
+ print("Ingresa el precio de tu segundo artículo, por favor :3")
+ y=input()
+ precio=int(x)+int(y)
+ print("El total de tu compra es", precio)
+perro_robot()
+
+def descuento():
+  print("Ingresa tu precio total, por favor :3")
+  z=input()
+  print("Ingresa tu cupón para realizar el descuento, por favor :3")
+  w=input()
+  precio_con_descuento=int(z)-int(w)/100*int(z)
+  print("El precio con descuento aplicado es",precio_con_descuento)
+descuento()
