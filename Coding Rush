@@ -1,0 +1,14 @@
+01 - def function_calculadore( ):
+02 - print("Poner dos números, base y exponente")
+03 -
+× = float(input() )
+04 -
+print("")
+05 - print("Estos son tus números:", x)
+06 -
+print(" ")
+07 - raiz_cubica = × ** (1/3)
+08 - print("Este es tu resultado de la raiz cúbic:"
+raiz_cubica)
+09-
+10 - function _calculadore()
