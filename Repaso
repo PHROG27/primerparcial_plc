@@ -1,0 +1,5 @@
+def dolares
+print Ingresa la cantidad en dolares")
+x=input ()
+f_x=int(x)*0.93
+print "la cantidad de euros es", f_x)
